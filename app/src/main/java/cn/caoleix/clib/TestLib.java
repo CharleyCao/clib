@@ -3,7 +3,7 @@ package cn.caoleix.clib;
 public class TestLib {
 
     public static void test() {
-        System.out.println("test lib");
+        System.out.println("test lib version 2");
     }
 
 }
